@@ -4,7 +4,7 @@
   "type": "Microsoft.Flow/flows",
   "properties": {
     "apiId": "/providers/Microsoft.PowerApps/apis/shared_logicflows",
-    "displayName": "Generate Hashtags from Tags (Sub Flow)",
+    "displayName": "Generate Hashtags from Categories (Sub Flow)",
     "definition": {
       "metadata": {
         "workflowEntityId": null,
@@ -15,7 +15,7 @@
         },
         "provisioningMethod": "FromDefinition",
         "failureAlertSubscription": true,
-        "clientLastModifiedTime": "2019-07-20T22:02:38.7816548Z"
+        "clientLastModifiedTime": "2019-07-25T21:03:52.6511152Z"
       },
       "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
       "contentVersion": "1.0.0.0",

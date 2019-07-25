@@ -3,17 +3,19 @@
   "details": {
     "displayName": "Generate Hashtags from Categories",
     "description": "",
-    "createdTime": "2019-07-25T19:47:48.0341465Z",
-    "packageTelemetryId": "367e6a62-d6fc-4057-b716-06200a513554",
+    "createdTime": "2019-07-25T21:04:12.7225971Z",
+    "packageTelemetryId": "47efcb38-1464-4c70-a7b0-079b3a0c0567",
     "creator": "Calvin Allen",
-    "sourceEnvironment": "EZRep, LLC. (default)"
+    "sourceEnvironment": ""
   },
   "resources": {
     "24c53051-9f14-40cf-a61e-3206e45783e9": {
       "type": "Microsoft.Flow/flows",
-      "suggestedCreationType": "Update",
+      "suggestedCreationType": "New",
       "creationType": "Existing, New, Update",
-      "details": { "displayName": "Generate Hashtags from Tags (Sub Flow)" },
+      "details": {
+        "displayName": "Generate Hashtags from Categories (Sub Flow)"
+      },
       "configurableBy": "User",
       "hierarchy": "Root",
       "dependsOn": []
